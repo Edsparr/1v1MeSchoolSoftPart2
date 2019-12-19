@@ -9,3 +9,13 @@ C:\Users\Lenovo\source\repos\SchoolClassTester\SchoolClassTester\obj\Debug\netco
 C:\Users\Lenovo\source\repos\SchoolClassTester\SchoolClassTester\obj\Debug\netcoreapp2.1\SchoolClassTester.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\SchoolClassTester\SchoolClassTester\obj\Debug\netcoreapp2.1\SchoolClassTester.dll
 C:\Users\Lenovo\source\repos\SchoolClassTester\SchoolClassTester\obj\Debug\netcoreapp2.1\SchoolClassTester.pdb
+C:\Users\fr0ze\Source\Repos\1v1MeSchoolSoftPart2\SchoolClassTester\bin\Debug\netcoreapp2.1\SchoolClassTester.deps.json
+C:\Users\fr0ze\Source\Repos\1v1MeSchoolSoftPart2\SchoolClassTester\bin\Debug\netcoreapp2.1\SchoolClassTester.runtimeconfig.json
+C:\Users\fr0ze\Source\Repos\1v1MeSchoolSoftPart2\SchoolClassTester\bin\Debug\netcoreapp2.1\SchoolClassTester.runtimeconfig.dev.json
+C:\Users\fr0ze\Source\Repos\1v1MeSchoolSoftPart2\SchoolClassTester\bin\Debug\netcoreapp2.1\SchoolClassTester.dll
+C:\Users\fr0ze\Source\Repos\1v1MeSchoolSoftPart2\SchoolClassTester\bin\Debug\netcoreapp2.1\SchoolClassTester.pdb
+C:\Users\fr0ze\Source\Repos\1v1MeSchoolSoftPart2\SchoolClassTester\obj\Debug\netcoreapp2.1\SchoolClassTester.csprojAssemblyReference.cache
+C:\Users\fr0ze\Source\Repos\1v1MeSchoolSoftPart2\SchoolClassTester\obj\Debug\netcoreapp2.1\SchoolClassTester.AssemblyInfoInputs.cache
+C:\Users\fr0ze\Source\Repos\1v1MeSchoolSoftPart2\SchoolClassTester\obj\Debug\netcoreapp2.1\SchoolClassTester.AssemblyInfo.cs
+C:\Users\fr0ze\Source\Repos\1v1MeSchoolSoftPart2\SchoolClassTester\obj\Debug\netcoreapp2.1\SchoolClassTester.dll
+C:\Users\fr0ze\Source\Repos\1v1MeSchoolSoftPart2\SchoolClassTester\obj\Debug\netcoreapp2.1\SchoolClassTester.pdb
