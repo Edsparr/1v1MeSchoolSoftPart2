@@ -7,7 +7,7 @@ using SchoolClassTester.SchoolClasses;
 
 namespace SchoolClassTester.Services
 {
-    public interface IFileService
+    public interface IFileService //This is like the specs, that the service (aka manager) is required to do
     {
         void SaveObject(string relativePath, object @object);
         T LoadObject<T>(string relativePath) where T : new();
@@ -43,7 +43,7 @@ namespace SchoolClassTester.Services
 
         private string GetPath(string relativePath) => 
             Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), string.Format(PathPrefab, relativePath));
-    } //Base implemenmtation
+    } //The implementation of all those methods
 
 
     public partial class FileService : IFileService //More of helper methods, still implementation with the one above, just seperated for looks.
